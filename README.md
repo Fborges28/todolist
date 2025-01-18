@@ -61,11 +61,15 @@ NEXT_PUBLIC_API_URL=http://backend:3001
 
 1. Build and start all services:
 
+```bash
 docker compose up --build
+```
 
 2. Stop all services:
 
+```bash
 docker compose down
+```
 
 ### Container Structure
 
